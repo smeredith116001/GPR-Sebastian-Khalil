@@ -277,6 +277,8 @@ void mainImage( out vec4 fragColor, in vec2 fragCoord )
     fragColor = tex;
 }
 
+//https://www.shadertoy.com/view/ltScRG 
+//Was able to get a good grasp of what to do from this example 
 
 Buffer C
 
